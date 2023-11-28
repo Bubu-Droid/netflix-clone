@@ -121,7 +121,6 @@ header {
 
 .btn-red {
     background-color: #e50914;
-
 }
 
 .btn-red:hover {
@@ -414,7 +413,7 @@ header {
 }
 
 .faq {
-    padding: 27px;
+    padding: 24px;
     background-color: #2d2d2d;
     display: flex;
     flex-direction: row;
